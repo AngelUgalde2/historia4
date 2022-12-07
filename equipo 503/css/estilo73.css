@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HISTORIA CUARTO GRADO</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="css/estilo2.css">
+<link rel="icon" type="image/png" href="imagenes/logo.jpeg">
+</head>
+<body>
+	<div class="principal">
+		<div class="titulo">
+			<img src="imagenes/logo.jpeg">
+			<h1>TEMAS A EXPLORAR</h1>
+			<img src="imagenes/logo.jpeg">
+		</div>
+	
+	</div>
+	<div class="contenedor_hexagonal">
+		<!--Imagen 1-->
+		<div class="hexagonal">
+			<div class="forma">
+				<img src="imagenes/causas.jpeg">
+				<div class="contenido">
+					<div>
+					<a href="file:///I:/equipo%20503/Indepndencia.html"><h1>CAUSAS DE LA INDEPENDENCIA</h1></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--Imagen 2-->
+		<div class="hexagonal">
+			<div class="forma">
+				<img src="imagenes/comercio.jpeg">
+				<div class="contenido">
+					<div>
+					<a href="file:///I:/equipo%20503/Las%20actividades%20economicas.html"><h1>LAS ACTIVIDADES ECONOMICAS: AGRICULTURA, MINERIA, GANADERIA Y COMERCIO</h1></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--Imagen 3-->
+		<div class="hexagonal">
+			<div class="forma">
+				<img src="imagenes/consumacion.jpeg">
+				<div class="contenido">
+					<div>
+					<a href="file:///I:/equipo%20503/La%20consumacion.html"><h1>LA CONSUMACION DE LA INDEPENDENCIA</h1></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--Imagen 4-->
+		<div class="hexagonal">
+			<div class="forma">
+				<img src="imagenes/cultivo.jpeg">
+				<div class="contenido">
+					<div>
+					<a href=""><h1>IMPORTANCIA DEL CULTIVO</h1></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--Imagen 5-->
+		<div class="hexagonal">
+			<div class="forma">
+				<img src="imagenes/migrante.jpeg">
+				<div class="contenido">
+					<div>
+					<a href=""><h1>EL POBLAMIENTO: MIGRANTES DE ASIA A AMERICA</h1></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--Imagen 6-->
+		<div class="hexagonal">
+			<div class="forma">
+				<img src="imagenes/mujer.jpeg">
+				<div class="contenido">
+					<div>
+					<a href=""><h1>LAS MUJERES EN MOVIMIENTO DE INDEPENDENCIA</h1></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--Imagen 7-->
+		<div class="hexagonal">
+			<div class="forma">
+				<img src="imagenes/nueva.jpeg">
+				<div class="contenido">
+					<div>
+					<a href=""><h1>LA PRESENCIA INDEGENA EN LA ACTUALIDAD</h1></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--Imagen 8-->
+		<div class="hexagonal">
+			<div class="forma">
+				<img src="imagenes/plan.jpeg">
+				<div class="contenido">
+					<div>
+					<a href=""><h1>LA INDEPENDENCIA Y LA BUSQUEDA DE UNA SOCIEDAD MAS IGUALITARIA</h1></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--Imagen 9-->
+		<div class="hexagonal">
+			<div class="forma">
+				<img src="imagenes/portada1.jpeg">
+				<div class="contenido">
+					<div>
+					<a href="file:///I:/equipo%20503/culturas.html"><h1>CULTURAS MESOAMERICANAS</h1></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--Imagen 10-->
+		<div class="hexagonal">
+			<div class="forma">
+				<img src="imagenes/rupestre.jpeg">
+				<div class="contenido">
+					<div>
+					<a href="file:///I:/equipo%20503/pinturas.html"><h1>PINTURAS RUPESTRES</h1></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<footer>
+		<div class="contenedor-footer-todo">
+			<div class="contenedor-footer">
+				<!--COLUMNA 1-->
+				<div class="columna1">
+					<h1>Mas informacion de la empresa</h1>
+					<p>Esta empresa se dedica a la venta de
+					pasteles en linea, ya que no se cueta
+					con un establecimiento fisico por lo
+					tanto lo que busca la empresa es
+					brindar el servicio a domicilio con
+					la finalidad que evites largas finas
+					de espera y se envie tu pedido a la
+					comunidad de tu casa.
+					</p>
+
+
+				</div>
+				<!--COLUMNA 2-->
+				<div class="columna2">
+					<h1>Redes Sociales</h1>
+					
+					<div class="filas">
+						<img src="imagenes/facebook2.png">
+						<label>Siguenos en Facebook</label>
+					</div>
+					<div class="filas">
+						<img src="imagenes/pajaro.png">
+						<label>Siguenos en Twitter</label>
+					</div>
+					<div class="filas">
+						<img src="imagenes/camara.png">
+						<label>Siguenos en Instagram</label>
+					</div>
+					<div class="filas">
+						<img src="imagenes/youtube.png">
+						<label>Siguenos en Youtube</label>
+					</div>
+				</div>
+				<!--COLUMNA 3-->
+				<div class="columna3">
+					<h1>Informacion de contacto</h1>
+					<div class="fila-contacto">
+						<img src="imagenes/nombre.png">
+						<label>Av. San Agustin, esquina con
+						San Lorenzo#31 B.
+						</label>
+					</div>
+					<div class="fila-contacto">
+						<img src="imagenes/telefono.png">
+						<label>(55)3297-9414									</label>
+					</div>
+					<div class="fila-contacto">
+						<img src="imagenes/carta.png">
+						<label>taquito@gmail.com
+						</label>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="contenedor-footer-abajo">
+			<div class="footer">
+				<div class="copyright">
+					Todos los derechos reservados<a href="">Empresa</a> 
+				</div>
+				<div class="informacion">
+					<a href="">Informacion de compañia</a>&nbsp&nbsp|
+					<a href="">Privación y Políticas</a>&nbsp&nbsp|
+					<a href="">Terminos y Condiciones</a>&nbsp&nbsp| 
+				</div>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>

@@ -1,0 +1,161 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+}
+body{
+	background:peachPuff;
+}
+.tema{
+	width: 800px;
+	height: 70%;
+	background: #1d3d64;
+	margin: bottom;
+	margin-left: 200px;
+	padding-top: 25px;
+
+}
+.text{
+	color:#7cc8ed;
+	font-family: 'Arial';
+	padding-left:0px;
+	text-align: left;	
+}
+.uno{
+	width:500px;
+	height: 50%;
+	background: #EACF8A;
+	margin: bottom;
+	padding-top: 50px;
+	margin-left: 500px;
+	display: flex;
+}
+.uno img{
+	width:115px;
+	height: 115%;
+}
+.tex{
+	font-family: 'Arial';
+	color: #1d3d64;
+	padding-left: 25px;
+	margin: left;
+}	
+.dos{
+	width:500px;
+	height: 50%;
+	background: #54B2BA;
+	margin: bottom;
+	margin-left: 200px;
+	padding-top: 50px;
+	display: flex;
+}
+.texx{
+	display: flex;
+}
+.dos img{
+	width:115px;
+	height: 80%;
+}
+.texto{
+	font-family: 'Arial';
+	color:#1d3d64;
+	padding-left: 25px;
+	margin: left;
+}
+.texx h3{
+	color: white;
+}
+
+.video{
+
+	width:500px;
+	height: 300%;
+	margin-top: -1000px;
+	margin-left: 1100px;
+}
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing: border-box;
+}
+body{
+	background:peachPuff;
+}
+.tema{
+	width: 800px;
+	height: 70%;
+	background: #1d3d64;
+	margin: bottom;
+	margin-left: 200px;
+	padding-top: 25px;
+
+}
+.text{
+	color:#7cc8ed;
+	font-family: 'Arial';
+	padding-left:0px;
+	text-align: left;	
+}
+.uno{
+	width:500px;
+	height: 50%;
+	background: #EACF8A;
+	margin: bottom;
+	padding-top: 50px;
+	margin-left: 500px;
+	display: flex;
+}
+.uno img{
+	width:115px;
+	height: 115%;
+}
+.tex{
+	font-family: 'Arial';
+	color: #1d3d64;
+	padding-left: 25px;
+	margin: left;
+}	
+.dos{
+	width:500px;
+	height: 50%;
+	background: #54B2BA;
+	margin: bottom;
+	margin-left: 200px;
+	padding-top: 50px;
+	display: flex;
+}
+.texx{
+	display: flex;
+}
+.dos img{
+	width:115px;
+	height: 80%;
+}
+.texto{
+	font-family: 'Arial';
+	color:#1d3d64;
+	padding-left: 25px;
+	margin: left;
+}
+.texx h3{
+	color: white;
+}
+
+.video{
+
+	width:500px;
+	height: 300%;
+	margin-top: -1000px;
+	margin-left: 1100px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover 
+{
+     color:#00A0C6; 
+     text-decoration:none; 
+     cursor:pointer;  
+}
